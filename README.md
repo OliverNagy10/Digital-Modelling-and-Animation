@@ -1,6 +1,6 @@
 # Zidane's 2002 Champions League Goal Animation 
 
-Welcome to our animation project, an exploration of the technical side the creation of a short animation inspired by Zinedine Zidane's iconic 2002 Champions League goal. Crafted with  Maya and After Effects, this project delves into the core techniques of digital animation.
+This project an exploration of the technical side the creation of a short animation inspired by Zinedine Zidane's iconic 2002 Champions League goal. Crafted with  Maya and After Effects, this project delves into the core techniques of digital animation.
 
 ## Techniques Explored
 
